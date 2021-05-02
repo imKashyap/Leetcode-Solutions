@@ -53,3 +53,5 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 | 08 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
 | 09 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
 | 10 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
+| 10 | [Reverse in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
+| 11 | [Replace all Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](./Replace%20All%20Digits%20with%20Characters/Solution.java)| Easy|
