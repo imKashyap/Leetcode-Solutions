@@ -1,3 +1,28 @@
+
+## Leetcode Solutions 
+- My accepted leetcode solutions to leetcode DS Algo problems in Java
+- This repository is personal, made public in the hope that someone may find it useful.
+***
+My Coding Platform Ids:
+ - [Codechef](https://www.codechef.com/users/imkashyap/)
+ - [Codeforces](https://codeforces.com/profile/imkashyap)
+ - [GFG](https://auth.geeksforgeeks.org/user/imkashyap/practice/)
+ - [Hackerrank](https://www.hackerrank.com/imkashyap)
+ - [LeetCode](https://leetcode.com/imkashyap/)
+  
+  ***
+  View my Other Problem Solving Repositories
+  - [Competitive Programming](https://github.com/imKashyap/Competitive-Programming)
+  - [Hackerrank Solutions](https://github.com/imKashyap/Hackerrank-Solutions)
+  - [GFG Solutions](https://github.com/imKashyap/gfg-solutions)
+
+ For any queries and suggestions: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RahulKashyap-blue.svg)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
+
+Do :star: the repo if you find it appreciable. For any queries and suggestions, Conatct me at my mailing address.
+
+***
+
 |Sl. No.|Problem|Solution|Type|
 |--|-- |--|--|
 |01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Broken%20Calculator/Solution.java)|Easy|
