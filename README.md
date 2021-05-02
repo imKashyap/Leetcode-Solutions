@@ -1,17 +1,29 @@
 
 ## Leetcode Solutions 
-- My accepted leetcode solutions to leetcode DS Algo problems in Java
+- My accepted solutions to leetcode DS Algo problems in Java
 - This repository is personal, made public in the hope that someone may find it useful.
 ***
-My Coding Platform Ids:
- - [Codechef](https://www.codechef.com/users/imkashyap/)
- - [Codeforces](https://codeforces.com/profile/imkashyap)
- - [GFG](https://auth.geeksforgeeks.org/user/imkashyap/practice/)
- - [Hackerrank](https://www.hackerrank.com/imkashyap)
- - [LeetCode](https://leetcode.com/imkashyap/)
-  
-  ***
-  View my Other Problem Solving Repositories
+### My Coding Platform Ids:
+<p>
+<a href="https://www.codechef.com/users/imkashyap/" title='Codechef'>
+    <img align="left" alt="Rahul Kashyap's Codechef" width="32px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
+</a>
+<a href="hhttps://codeforces.com/profile/imkashyap" title='Codeforcs'>
+    <img align="left" alt="Rahul Kashyap's Codeforces" width="32px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" />
+</a>
+<a href="https://leetcode.com/imkashyap/" title='Leetcode'>
+    <img align="left" alt="Rahul Kashyap's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
+</a>
+<a href="https://www.hackerrank.com/imkashyap" title='Hackerrank'>
+    <img align="left" alt="Rahul Kashyap's hackerrank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/imkashyap/practice/" title='GFG'>
+    <img align="left" alt="Rahul Kashyap's GFG" width="32px" src="https://store-images.s-microsoft.com/image/apps.55193.13510798887411929.8353f5f6-1e50-45c3-9d66-162b6c2bebd7.c01e4858-d5a3-4c02-8516-7825870e33c1" />
+</a></br>
+</p>
+
+***
+  View my Other Problem Solving Repositories: 
   - [Competitive Programming](https://github.com/imKashyap/Competitive-Programming)
   - [Hackerrank Solutions](https://github.com/imKashyap/Hackerrank-Solutions)
   - [GFG Solutions](https://github.com/imKashyap/gfg-solutions)
@@ -25,12 +37,12 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 
 |Sl. No.|Problem|Solution|Type|
 |--|-- |--|--|
-|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Broken%20Calculator/Solution.java)|Easy|
-|02 | [Check Array fromation through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) |[Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Check%20Array%20Formation%20Through%20Concatenation/Solution.java)| Easy|
-| 03 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Reverse%20String/Solution.java)|Easy|
-| 04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Reverse%20Vowels%20of%20a%20String/Solution.java)| Easy|
+|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](./Broken%20Calculator/Solution.java)|Easy|
+|02 | [Check Array fromation through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) |[Solution](./Check%20Array%20Formation%20Through%20Concatenation/Solution.java)| Easy|
+| 03 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./Reverse%20String/Solution.java)|Easy|
+| 04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./Reverse%20Vowels%20of%20a%20String/Solution.java)| Easy|
 | 05 | [Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./Count%20and%20Say/Solution.java)| Medium|
-| 06 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Sliding%20Window%20Maximum/Solution.java)| Hard|
+| 06 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./Sliding%20Window%20Maximum/Solution.java)| Hard|
 | 07 |[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](./Sum%20of%20Digits%20in%20Base%20K/Solution.java)| Easy|
-| 08| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](https://github.com/imKashyap/Competitive-Programming/blob/master/Leetcode/Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
+| 08| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
 | 09 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
