@@ -52,4 +52,4 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 | 07 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](./Sum%20of%20Digits%20in%20Base%20K/Solution.java)| Easy|
 | 08 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
 | 09 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
-| 10 | [Reverse in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
+| 10 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
