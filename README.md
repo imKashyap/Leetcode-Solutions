@@ -43,7 +43,7 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 
 |Sl. No.|Problem|Solution|Type|
 |--|-- |--|--|
-|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](./Broken%20Calculator/Solution.java)|Easy|
+|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](./Broken%20Calculator/Solution.java)|Medium|
 |02 | [Check Array fromation through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) |[Solution](./Check%20Array%20Formation%20Through%20Concatenation/Solution.java)| Easy|
 | 03 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./Reverse%20String/Solution.java)|Easy|
 | 04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./Reverse%20Vowels%20of%20a%20String/Solution.java)| Easy|
