@@ -54,3 +54,5 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 | 09 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
 | 10 | [Reverse in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
 | 11 | [Replace all Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](./Replace%20All%20Digits%20with%20Characters/Solution.java)| Easy|
+|12 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./Two%20Sum/Solution.java)| Easy|
+|13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./Longest%20Substring%20without%20Repeating%20Characters/Solution.java)| Medium|
