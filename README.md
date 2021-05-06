@@ -43,7 +43,7 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 
 |Sl. No.|Problem|Solution|Type|
 |--|-- |--|--|
-|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](./Broken%20Calculator/Solution.java)|Easy|
+|01| [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](./Broken%20Calculator/Solution.java)|Medium|
 |02 | [Check Array fromation through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) |[Solution](./Check%20Array%20Formation%20Through%20Concatenation/Solution.java)| Easy|
 | 03 | [Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./Reverse%20String/Solution.java)|Easy|
 | 04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./Reverse%20Vowels%20of%20a%20String/Solution.java)| Easy|
@@ -52,7 +52,7 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 | 07 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](./Sum%20of%20Digits%20in%20Base%20K/Solution.java)| Easy|
 | 08 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
 | 09 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
-| 10 | [Reverse in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
+| 10 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
 | 11 | [Replace all Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](./Replace%20All%20Digits%20with%20Characters/Solution.java)| Easy|
 |12 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./Two%20Sum/Solution.java)| Easy|
 |13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./Longest%20Substring%20without%20Repeating%20Characters/Solution.java)| Medium|
