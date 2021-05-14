@@ -49,10 +49,14 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 | 04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./Reverse%20Vowels%20of%20a%20String/Solution.java)| Easy|
 | 05 | [Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](./Count%20and%20Say/Solution.java)| Medium|
 | 06 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./Sliding%20Window%20Maximum/Solution.java)| Hard|
-| 07 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](./Sum%20of%20Digits%20in%20Base%20K/Solution.java)| Easy|
-| 08 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
-| 09 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
-| 10 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
-| 11 | [Replace all Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](./Replace%20All%20Digits%20with%20Characters/Solution.java)| Easy|
-|12 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./Two%20Sum/Solution.java)| Easy|
-|13 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./Longest%20Substring%20without%20Repeating%20Characters/Solution.java)| Medium|
+|07 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./Longest%20Substring%20without%20Repeating%20Characters/Solution.java)| Medium|
+| 08 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](./Sum%20of%20Digits%20in%20Base%20K/Solution.java)| Easy|
+| 09 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](./Subarray%20Sum%20Equals%20K/Solution.java)| Medium|
+| 10 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./Group%20Anagrams/Solution.java)| Medium|
+| 11 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./Reverse%20words%20in%20a%20String/Solution.java)| Medium|
+| 12 | [Replace all Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[Solution](./Replace%20All%20Digits%20with%20Characters/Solution.java)| Easy|
+|13 | [Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./Two%20Sum/Solution.java)| Easy|
+|14 | [Three Sum](https://leetcode.com/problems/3sum/)|[Solution](./Three%20Sum/Solution.java)| Medium|
+|15 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./Three%20Sum%20Closest/Solution.java)| Medium|
+|16 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./Merge%20Intervals/Solution.java)| Medium|
+|17| [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](./Sort%20Colors/Solution.java)|Medium|
