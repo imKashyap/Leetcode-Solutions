@@ -60,3 +60,6 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 |15 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./Three%20Sum%20Closest/Solution.java)| Medium|
 |16 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./Merge%20Intervals/Solution.java)| Medium|
 |17| [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](./Sort%20Colors/Solution.java)|Medium|
+|18| [Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./Next%20Permutation/Solution.java)|Medium|
+|19|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](./Reverse%20Bits/Solution.java)|Easy|
+|20|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](./Number%20of%201%20bits/Solution.java)|Easy|
