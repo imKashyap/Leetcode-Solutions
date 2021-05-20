@@ -63,3 +63,6 @@ Do :star: the repo if you find it appreciable. For any queries and suggestions, 
 |18| [Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./Next%20Permutation/Solution.java)|Medium|
 |19|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](./Reverse%20Bits/Solution.java)|Easy|
 |20|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](./Number%20of%201%20bits/Solution.java)|Easy|
+|21|[Single Number](https://leetcode.com/problems/single-number/)|[Solution](./Single%20Number/Solution.java)|Easy|
+|22|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](./Single%20Number%20II/Solution.java)|Medium|
+|23|[Reverse Array](https://leetcode.com/problems/rotate-array/)|[Solution](./Rotate%20Array/Solution.java)|Medium|
