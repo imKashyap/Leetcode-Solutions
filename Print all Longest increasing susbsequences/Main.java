@@ -12,7 +12,7 @@ import java.lang.*;
 class Main {
 	public static void main(String args[]) {
 		// Your code goes here
-		int[] arr= new int[]{10, 22, 9, 33, 21, 50, 41, 60, 80 ,1};
+		int[] arr= new int[]{1,2,4,3,5,4,7,2};
 		solution(arr);
 	}
 
@@ -65,9 +65,11 @@ class Main {
         
         for(int i=idx;i>=0;i--){
             if(dp[i]==target){
-                seq.add(0,arr[i]);
-                solve(target-1, i-1,dp,arr,seq,lis);
-                seq.remove(0);
+		if(seq.isEmpty() || arr[i]<seq.get(0)){
+			seq.add(0,arr[i]);
+			solve(target-1, i-1,dp,arr,seq,lis);
+			seq.remove(0);
+		}
             }
         }
     }
